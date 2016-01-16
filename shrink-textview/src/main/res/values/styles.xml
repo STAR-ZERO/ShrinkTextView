@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.ShrinkTextView" parent="android:Widget.TextView">
+        <item name="shrink_min_size">@dimen/shrink_default_min_size</item>
+    </style>
+</resources>
